@@ -1,9 +1,9 @@
-@import url('https://fonts.googleapis.com/css2?family=Nunito+Sans:opsz,wght@6..12,700;6..12,800&family=Open+Sans:wght@300&family=Roboto:wght@700&display=swap');
-@import url('https://fonts.googleapis.com/css2?family=Lato&family=Nunito+Sans:opsz,wght@6..12,600;6..12,700&display=swap');
-@import url('https://fonts.googleapis.com/css2?family=Nunito+Sans:opsz,wght@6..12,700&family=Open+Sans:wght@300&display=swap');
-@import url('https://fonts.googleapis.com/css2?family=Nunito+Sans:opsz,wght@6..12,700&family=Open+Sans:wght@300&family=Roboto:wght@700&display=swap');
-@import url('https://fonts.googleapis.com/css2?family=Lato&family=Nunito+Sans:opsz,wght@6..12,600&display=swap');
-@import url('https://fonts.googleapis.com/css2?family=Lato&family=Nunito+Sans:opsz,wght@6..12,600;6..12,700&display=swap');
+@import url("https://fonts.googleapis.com/css2?family=Nunito+Sans:opsz,wght@6..12,700;6..12,800&family=Open+Sans:wght@300&family=Roboto:wght@700&display=swap");
+@import url("https://fonts.googleapis.com/css2?family=Lato&family=Nunito+Sans:opsz,wght@6..12,600;6..12,700&display=swap");
+@import url("https://fonts.googleapis.com/css2?family=Nunito+Sans:opsz,wght@6..12,700&family=Open+Sans:wght@300&display=swap");
+@import url("https://fonts.googleapis.com/css2?family=Nunito+Sans:opsz,wght@6..12,700&family=Open+Sans:wght@300&family=Roboto:wght@700&display=swap");
+@import url("https://fonts.googleapis.com/css2?family=Lato&family=Nunito+Sans:opsz,wght@6..12,600&display=swap");
+@import url("https://fonts.googleapis.com/css2?family=Lato&family=Nunito+Sans:opsz,wght@6..12,600;6..12,700&display=swap");
 
 * {
   box-sizing: border-box;
@@ -140,6 +140,7 @@ header {
   grid-template-columns: repeat(2, 200px);
   gap: 30px 30px;
 }
+
 .card {
   width: 200px;
   height: 200px;
@@ -167,38 +168,42 @@ header {
   text-transform: capitalize;
   margin-top: 20px;
 }
-.card{
-  width: 1340px;
+.testimonial-wrap {
+  width: 100%;
+  padding: 5%;
+}
+.testimonial-card {
+  max-width: 1340px;
   height: 328px;
-  flex-shrink: 0;
   border-radius: 10px;
-  background: #FFF;
-  box-shadow: 0px 7px 26px 0px rgba(0, 0, 0, 0.30);
-  margin-left: 100px;
+  background: #fff;
+  box-shadow: 0px 7px 26px 0px rgba(0, 0, 0, 0.3);
   padding: 50px;
   display: flex;
-  justify-content: space-around;
+  gap: 45px;
   align-items: center;
 }
-.card-text{
+.card-text {
+  padding-top: 20px;
   display: flex;
-  width: 854px;
+  max-width: 854px;
   flex-direction: column;
   justify-content: center;
-  flex-shrink: 0;
+  align-items: center;
 }
-.card-text p{
+.card-text p {
   color: #000;
-  font-family: 'Nunito Sans', sans-serif;;
-  font-size: 25px;
+  font-family: "Nunito Sans", sans-serif;
+  font-size: 22px;
   font-style: normal;
-  font-weight: 700;
-  line-height: 136.3%; /* 34.075px */
+  font-weight: 600;
+  line-height: 136.3%;
   letter-spacing: 1px;
+  padding-right: 30px;
 }
-.card-text span{
+.card-text span {
   color: #000;
-  font-family: 'Nunito Sans', sans-serif;
+  font-family: "Nunito Sans", sans-serif;
   font-size: 25px;
   font-style: normal;
   font-weight: 400;
@@ -206,19 +211,18 @@ header {
   letter-spacing: 1px;
   margin-top: 20px;
 }
-.cricle{
+.cricle {
   display: flex;
   justify-content: center;
   align-items: center;
   height: 100px;
-
 }
-.container{
+.container {
   background: #c4c4c4;
   height: 412px;
   display: flex;
 }
-.container1{
+.container1 {
   background: #373434;
   height: 120px;
   display: flex;
@@ -226,71 +230,73 @@ header {
   gap: 100px;
   padding: 0 100px;
 }
-.content{
+.content {
   display: flex;
   flex: 1;
   padding: 120px;
   gap: 50px;
 }
-.content1{
+.content1 {
   flex: 1;
 }
-.cont h2{
+.cont h2 {
   font-size: 24px;
   font-family: Nunito Sans sans-serif;
   color: #fff;
   text-transform: uppercase;
 }
-.cont p{
+.cont p {
   font-size: 24px;
   color: #585858;
   text-transform: capitalize;
   font-family: Nunito Sans sans-serif;
 }
-.content1{
+.content1 {
   padding: 120px;
   display: flex;
   flex-direction: column;
   row-gap: 30px;
 }
-.conte input{
+.conte input {
   width: 522px;
   height: 57.5px;
   border-radius: 0px 5px 5px 0px;
   border: none;
-  color: #A59C9C;;
+  color: #a59c9c;
   font-size: 18px;
   padding: 10px;
 }
-.conte button{
+.conte {
+  position: relative;
+}
+.conte button {
   height: 57.5px;
-  background: #ED2B6F;
+  background: #ed2b6f;
   color: #fff;
   position: absolute;
   top: 120px;
   width: 66.7px;
-  border-radius:  0px 5px 5px 0px;
+  border-radius: 0px 5px 5px 0px;
   border: none;
 }
-.content1 h2{
+.content1 h2 {
   display: flex;
   flex-direction: row;
   align-items: center;
   gap: 10px;
 }
-.content1 h2 span{
+.content1 h2 span {
   font-size: 36px;
   font-weight: 600;
   color: #585858;
 }
-.container1 p{
-   color: #c4c4c4;
-   font-size: 20px;
-   font-weight: 700;
-   text-transform: capitalize;
-
+.container1 p {
+  color: #c4c4c4;
+  font-size: 20px;
+  font-weight: 700;
+  text-transform: capitalize;
 }
-.copy{
+.copy {
   position: absolute;
   left: 1200px;
 }
