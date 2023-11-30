@@ -1,0 +1,872 @@
+@media screen and (max-width: 1285px) {
+ .sec1-1, .sec1-2, .sec1-3{
+        width: 50%;
+        height: 40%;
+        display: flex;
+        flex-direction: column;
+        justify-content: center;
+        gap: 6.5%;
+        align-items: center;
+        color: white;
+        padding: 1% 5%;
+        background-color: #0E1331;
+        border-radius: 5%;
+        -webkit-border-radius: 5%;
+        -moz-border-radius: 5%;
+        -ms-border-radius: 5%;
+        -o-border-radius: 5%;
+        box-shadow: 0px 3px 4px 0px rgba(0, 0, 0, 0.30);
+}
+
+    .sec1-1 svg, .sec1-2 svg, .sec1-3 svg{
+        width: 56px;
+        height: 47px;
+    }
+    
+    .sec1-1 h2, .sec1-2 h2, .sec1-3 h2{
+        font-size: 18.3px;
+        word-spacing: .3px;
+        text-wrap: nowrap;
+        word-wrap: break-word;
+    }
+    
+    .sec1-1 p .sec1-2 p, .sec1-3 p{
+        font-size: 10px;
+        width: 100%;
+        word-spacing: 2.1px;
+    }
+    
+    #section-courses1 .sec2 .sec2a {
+        text-align: center;
+        font-size: 25px;
+        font-weight: 600;
+    }
+   
+
+    #section-courses1 .sec2 .sec2b .sec2-1 .sec2-1-2 {
+        height: 40%;
+        display: flex;
+        flex-direction: column;
+        gap: 15%;
+        position: relative;
+        padding: 2% 2% 10%;
+        background-color: white;
+        border-radius: 0 0 5px 5px;
+        -webkit-border-radius: 0 0 5px 5px;
+        -moz-border-radius: 0 0 5px 5px;
+        -ms-border-radius: 0 0 5px 5px;
+        -o-border-radius: 0 0 5px 5px;
+    }
+
+
+
+    #section-courses1 .sec2 .sec2b .sec2-2 .sec2-2-2 {
+        height: 40%;
+        display: flex;
+        flex-direction: column;
+        gap: 15%;
+        position: relative;
+        padding: 2% 2% 10%;
+        background-color: white;
+        border-radius: 0 0 5px 5px;
+        -webkit-border-radius: 0 0 5px 5px;
+        -moz-border-radius: 0 0 5px 5px;
+        -ms-border-radius: 0 0 5px 5px;
+        -o-border-radius: 0 0 5px 5px;
+    }
+
+
+    #section-courses1 .sec2 .sec2b .sec2-3 .sec2-3-2 {
+        height: 40%;
+        display: flex;
+        flex-direction: column;
+        gap: 15%;
+        position: relative;
+        padding: 2% 2% 2.5%;
+        background-color: white;
+        border-radius: 0 0 5px 5px;
+        -webkit-border-radius: 0 0 5px 5px;
+        -moz-border-radius: 0 0 5px 5px;
+        -ms-border-radius: 0 0 5px 5px;
+        -o-border-radius: 0 0 5px 5px;
+    }
+
+
+    #section-courses1 .sec2 .sec2b .sec2-4 .sec2-4-2 {
+        height: 40%;
+        display: flex;
+        flex-direction: column;
+        gap: 15%;
+        position: relative;
+        padding: 2% 2% 10%;
+        background-color: white;
+        border-radius: 0 0 5px 5px;
+        -webkit-border-radius: 0 0 5px 5px;
+        -moz-border-radius: 0 0 5px 5px;
+        -ms-border-radius: 0 0 5px 5px;
+        -o-border-radius: 0 0 5px 5px;
+    }
+
+
+    #section-courses1 .sec2 .sec2b .sec2-2 .sec2-2-2 {
+        height: 40%;
+        display: flex;
+        flex-direction: column;
+        gap: 15%;
+        position: relative;
+        padding: 2% 2% 10%;
+        background-color: white;
+        border-radius: 0 0 5px 5px;
+        -webkit-border-radius: 0 0 5px 5px;
+        -moz-border-radius: 0 0 5px 5px;
+        -ms-border-radius: 0 0 5px 5px;
+        -o-border-radius: 0 0 5px 5px;
+    }
+
+
+    #section-courses1 .sec1 .sec1b .sec1-4 a {
+        text-align: center;
+        font-family: Nunito Sans;
+        font-size: 16.5px;
+        font-style: normal;
+        font-weight: 600;
+        line-height: normal;
+        letter-spacing: 0.4px;
+        text-transform: capitalize;
+        text-decoration: none;
+        color: white;
+        background-color: #ED2B6F;
+        padding: 10px 20px;
+        border-radius: 5px;
+        -webkit-border-radius: 5px;
+        -moz-border-radius: 5px;
+        -ms-border-radius: 5px;
+        -o-border-radius: 5px;
+    }
+
+    #section-courses1 .sec2 .sec2c {
+        width: 56%;
+        align-self: center;
+        text-align: center;
+        font-family: Nunito Sans;
+        font-size: 17px;
+        font-style: normal;
+        font-weight: 600;
+        line-height: normal;
+        letter-spacing: 0.4px;
+        text-transform: capitalize;
+        text-decoration: none;
+        color: white;
+        background-color: #ED2B6F;
+        padding: 10px 20px;
+        border-radius: 5px;
+        -webkit-border-radius: 5px;
+        -moz-border-radius: 5px;
+        -ms-border-radius: 5px;
+        -o-border-radius: 5px;
+    }
+
+  
+
+    #section-courses2 {
+        display: flex;
+        justify-content: space-between;
+        align-items: center;
+        padding: 3%;
+        height: 350px;
+        width: 100%;
+        gap: .5em;
+        background: #E5E5E5;
+    }
+
+    #section-courses2 .sec-courseA {
+        /* display: flex;
+        flex-direction: column; */
+        gap: 2em;
+        width: 35%;
+        padding: .23%;
+    }
+
+    #section-courses2 .sec-courseB {
+        display: flex;
+        justify-content: center;
+        align-items: center;
+        width: 65%;
+        padding: 2%;
+        gap: 2em;
+    }
+
+    #section-courses2 .sec-courseA .expose {
+        line-height: 38px;
+        word-spacing: 2px;
+        font-size: 20px;
+        font-weight: 400;
+    }
+
+    #section-courses2 .sec-courseA .view-more {
+        width: 60%;
+        height: 27px;
+        display: flex;
+        gap: 1em;
+        justify-content: center;
+        align-items: center;
+        text-align: center;
+        font-family: Nunito Sans;
+        font-size: 16px;
+        font-style: normal;
+        font-weight: 600;
+        text-transform: capitalize;
+        text-decoration: none;
+        color: white;
+        background-color: #ED2B6F;
+        border-radius: 5px;
+        -webkit-border-radius: 5px;
+        -moz-border-radius: 5px;
+        -ms-border-radius: 5px;
+        -o-border-radius: 5px;
+    
+    }
+
+    #section-courses2 .sec-courseB .coures1 {
+        height: 180px;
+        width: 185px;
+        background: #373434;
+        background-blend-mode: multiply;
+        box-shadow: 0px 3px 4px 0px rgba(0, 0, 0, 0.30);
+        display: grid;
+        place-items: center;
+        grid-template-rows: 1fr 1fr;
+        padding: 9% 5%;
+        font-size: 18px;
+        color: white;
+}
+
+#section-courses2 .sec-courseB .coures2 {
+    height: 180px;
+    width: 175px;
+    background: #373434;
+    background-blend-mode: multiply;
+    box-shadow: 0px 3px 4px 0px rgba(0, 0, 0, 0.30);
+    display: grid;
+    place-items: center;
+    grid-template-rows: 1fr 1fr;
+    padding: 9% 5%;
+    font-size: 18px;
+    color: white;
+
+}
+
+#section-courses2 .sec-courseB .coures3 {
+    height: 180px;
+    width: 175px;
+    background: #373434;
+    background-blend-mode: multiply;
+    box-shadow: 0px 3px 4px 0px rgba(0, 0, 0, 0.30);
+    display: grid;
+    place-items: center;
+    grid-template-rows: 1fr 1fr;
+    padding: 9% 5%;
+    font-size: 18px;
+    color: white;
+}
+
+#section-courses2 .sec-courseB .coures4 {
+    height: 180px;
+    width: 175px;
+    background: #373434;
+    background-blend-mode: multiply;
+    box-shadow: 0px 3px 4px 0px rgba(0, 0, 0, 0.30);
+    display: grid;
+    place-items: center;
+    grid-template-rows: 1fr 1fr;
+    padding: 9% 5%;
+    font-size: 18px;
+    color: white;
+}
+}
+
+
+
+@media screen and (max-width: 985px) {
+    #section-courses1{
+        display: flex;
+        flex-direction: column;
+    }
+
+    #section-courses1 .sec1 {
+        background-color: rgb(249, 249, 251);
+        display: flex;
+        justify-content: center;
+        align-items: center;
+        flex-direction: column;
+        gap: 1.5em;
+        padding: 2% 3% 2%;
+        height: 400px;
+        position: relative;
+    }
+
+    #section-courses1 .sec1 .sec1a {
+        display: flex;
+        justify-content: center;
+        flex-direction: row;
+        height: 85%;
+    }
+
+    #section-courses1 .sec1 .sec1a .sec1-1, #section-courses1 .sec1 .sec1a .sec1-2, #section-courses1 .sec1 .sec1a .sec1-3{
+        width: 40%;
+        height: 100%;
+        display: flex;
+        flex-direction: column;
+        justify-content: center;
+        gap: 2.65em;
+        align-items: center;
+        color: white;
+        padding: 3% 2%;
+        background-color: #0E1331;
+    }
+
+    #section-courses1 .sec1 .sec1b{
+        height: 14%;
+        width: 100%;
+    }
+
+    #section-courses1 .sec1 .sec1b .sec1-4{
+        width: 100%;
+        display: flex;
+    }
+
+    #section-courses1 .sec1 .sec1b .sec1-4 a {
+        width: 100%;
+        text-align: center;
+        font-family: Nunito Sans;
+        font-size: 16.5px;
+        font-style: normal;
+        font-weight: 600;
+        line-height: normal;
+        letter-spacing: 0.4px;
+        text-transform: capitalize;
+        text-decoration: none;
+        color: white;
+        background-color: #2b8fed;
+        padding: 10px 20px;
+        border-radius: 5px;
+        -webkit-border-radius: 5px;
+        -moz-border-radius: 5px;
+        -ms-border-radius: 5px;
+        -o-border-radius: 5px;
+    }
+
+    #section-courses1 .sec2 {
+        height: 900px;
+        display: flex;
+        justify-content: space-between;
+        align-content: space-around;
+        flex-direction: column;
+        padding: 2% 5% 2%;
+        gap: 2em;
+    }
+
+    #section-courses1 .sec2 .sec2b {
+        background-color: #E5E5E5;
+        display: grid;
+        height: 90%;
+        width: 100%;
+        grid-template-columns: 1fr 1fr;
+        grid-template-rows: auto;
+        grid-template-areas: "box1 box2"
+                             "box3 box3"
+                             "box4 box5";
+        gap: 1em 2em;
+    }
+
+    #section-courses1 .sec2 .sec2b .sec2-1 {
+        display: flex;
+        flex-direction: column;
+        background-color: aliceblue;
+        height: 235px;
+        width: 100%;
+        border-radius: 5px;
+        box-shadow: 0px 4px 16px 0px rgba(0, 0, 0, 0.30);
+        grid-area: box1;
+    }
+
+    #section-courses1 .sec2 .sec2b .sec2-2 {
+        display: flex;
+        flex-direction: column;
+        background-color: aliceblue;
+        height: 235px;
+        width: 100%;
+        border-radius: 5px;
+        box-shadow: 0px 4px 16px 0px rgba(0, 0, 0, 0.30);
+        grid-area: box2;
+        -webkit-border-radius: 5px;
+        -moz-border-radius: 5px;
+        -ms-border-radius: 5px;
+        -o-border-radius: 5px;
+}
+
+    #section-courses1 .sec2 .sec2b .sec2-3 {
+        display: flex;
+        flex-direction: column;
+        background-color: aliceblue;
+        grid-column: 1;
+        grid-row: span 3;
+        height: 235px;
+        border-radius: 5px;
+        box-shadow: 0px 4px 16px 0px rgba(0, 0, 0, 0.30);
+        grid-area: box3;
+    }
+
+    #section-courses1 .sec2 .sec2b .sec2-4 {
+        display: flex;
+        flex-direction: column;
+        background-color: aliceblue;
+        height: 235px;
+        width: 100%;
+        border-radius: 5px;
+        box-shadow: 0px 4px 16px 0px rgba(0, 0, 0, 0.30);
+        grid-area: box4;
+    }
+
+    #section-courses1 .sec2 .sec2b .sec2-5 {
+        display: flex;
+        flex-direction: column;
+        background-color: aliceblue;
+        height: 235px;
+        width: 100%;
+        border-radius: 5px;
+        box-shadow: 0px 4px 16px 0px rgba(0, 0, 0, 0.30);
+        grid-area: box5;
+    }
+
+
+    #section-courses1 .sec2 .sec2c {
+        width: 56%;
+        align-self: center;
+        text-align: center;
+        font-family: Nunito Sans;
+        font-size: 17px;
+        font-style: normal;
+        font-weight: 600;
+        line-height: normal;
+        letter-spacing: 0.4px;
+        text-transform: capitalize;
+        text-decoration: none;
+        color: white;
+        background-color: #2b8fed;
+        padding: 10px 20px;
+        border-radius: 5px;
+        -webkit-border-radius: 5px;
+        -moz-border-radius: 5px;
+        -ms-border-radius: 5px;
+        -o-border-radius: 5px;
+    }
+
+    #section-courses2 {
+        display: flex;
+        justify-content: space-evenly;
+        align-items: center;
+        flex-direction: column;
+        padding: 0;
+        height: 450px;
+        width: 100%;
+        background: #E5E5E5;
+    }
+
+    #section-courses2 .sec-courseA {
+        display: flex;
+        justify-content: center;
+        align-items: center;
+        width: 100%;
+        gap: .7em;
+        padding: 0;
+    }
+
+    #section-courses2 .sec-courseA .expose {
+        line-height: 38px;
+        word-spacing: 2px;
+        font-size: 20px;
+        font-weight: 400;
+        width: 100%;
+        text-align: center;
+    }
+
+    #section-courses2 .sec-courseA .view-more {
+        display: none;
+    }
+
+    #section-courses2 .sec-courseB {
+        display: grid;
+        grid-template-columns: 1fr 1fr 1fr 1fr;
+        place-items: center;
+        place-content: center;
+        gap: 1em;
+        padding: 1% 1%;
+        width: 70%;
+    }
+
+    .view-more_2 {
+        display: flex;
+        justify-content: center;
+        width: 97%;
+        text-align: center;
+        font-family: Nunito Sans;
+        font-size: 16.5px;
+        font-style: normal;
+        font-weight: 600;
+        line-height: normal;
+        letter-spacing: 0.4px;
+        text-transform: capitalize;
+        text-decoration: none;
+        color: white;
+        background-color: #2b8fed;
+        padding: 10px 20px;
+        border-radius: 5px;
+        -webkit-border-radius: 5px;
+        -moz-border-radius: 5px;
+        -ms-border-radius: 5px;
+        -o-border-radius: 5px;
+    }
+}
+
+
+
+@media screen and (max-width: 787px) {
+    #section-courses1 {
+        gap: 0;
+    }
+
+    #section-courses1 .sec1 {
+        background-color: rgb(249, 249, 251);
+        height: 50vh;
+        position: relative;
+        padding: 0;
+    }
+
+
+    #section-courses1 .sec1 .sec1a, #section-courses1 .sec1 .sec1b {
+        display: none;
+    }
+
+    #section-courses1 .sec1 .sec1c{
+        display: flex;
+        gap: .6em;
+        width: 100%;
+        height: 100%;
+        padding: 0 0;
+        flex-direction: column;
+        justify-content: center;
+        align-items: center;
+        background: url(images/react.jpg);
+        background-position: center;
+        background-size: cover;
+    }
+
+    #section-courses1 .sec1 .sec1c p{
+        width: 71%;
+        font-size: 4.5vw;
+        text-justify: distribute;
+        font-weight: 500;
+        color: rgb(255, 255, 255);
+        text-align: center;
+    }
+
+    #section-courses1 .sec1 .sec1c .learn_more{
+        text-decoration: none;
+    }
+
+    #section-courses1 .sec1 .sec1c .learn_more i{
+        display: flex;
+        justify-content: center;
+        align-items: center;
+        text-decoration: none;
+        font-size: 160%;
+        width: 8vw;
+        height: 7.66vh;
+        background-color: rgba(238, 232, 232, 0.433);
+        border-radius: 50%;
+        -webkit-border-radius: 50%;
+        -moz-border-radius: 50%;
+        -ms-border-radius: 50%;
+        -o-border-radius: 50%;
+}
+
+#section-courses1 .sec2{
+    height: 160vh;
+}
+
+#section-courses1 .sec2 .sec2b {
+    background-color: #E5E5E5;
+    display: flex;
+    flex-direction: column;
+    height: 90%;
+    width: 100%;
+    grid-template-columns: 1fr;
+    gap: 1em 2em;
+}
+
+#section-courses1 .sec2 .sec2b .sec2-1 {
+    display: none;
+    flex-direction: column;
+    background-color: aliceblue;
+    height: 235px;
+    width: 100%;
+    border-radius: 5px;
+    box-shadow: 0px 4px 16px 0px rgba(0, 0, 0, 0.30);
+    -webkit-border-radius: 5px;
+    -moz-border-radius: 5px;
+    -ms-border-radius: 5px;
+    -o-border-radius: 5px;
+
+}
+
+#section-courses1 .sec2 .sec2b .sec2-2 {
+    display: none;
+    flex-direction: column;
+    background-color: aliceblue;
+    height: 235px;
+    width: 100%;
+    border-radius: 5px;
+    box-shadow: 0px 4px 16px 0px rgba(0, 0, 0, 0.30);
+    -webkit-border-radius: 5px;
+    -moz-border-radius: 5px;
+    -ms-border-radius: 5px;
+    -o-border-radius: 5px;
+}
+
+#section-courses1 .sec2 .sec2b .sec2-3 {
+    display: flex;
+    flex-direction: column;
+    background-color: aliceblue;
+    height: 33.3%;
+    border-radius: 5px;
+    box-shadow: 0px 4px 16px 0px rgba(0, 0, 0, 0.30);
+}
+
+#section-courses1 .sec2 .sec2b .sec2-4 {
+    display: flex;
+    flex-direction: column;
+    background-color: aliceblue;
+    height: 33.3%;
+    width: 100%;
+    border-radius: 5px;
+    box-shadow: 0px 4px 16px 0px rgba(0, 0, 0, 0.30);
+}
+
+#section-courses1 .sec2 .sec2b .sec2-5 {
+    display: flex;
+    flex-direction: column;
+    background-color: aliceblue;
+    height: 33.3%;
+    width: 100%;
+    border-radius: 5px;
+    box-shadow: 0px 4px 16px 0px rgba(0, 0, 0, 0.30);
+}
+
+#section-courses1 .sec2 .sec2c {
+    width: 100%;
+    align-self: center;
+    text-align: center;
+    font-family: Nunito Sans;
+    font-size: 17px;
+    font-style: normal;
+    font-weight: 600;
+    line-height: normal;
+    letter-spacing: 0.4px;
+    text-transform: capitalize;
+    text-decoration: none;
+    color: white;
+    background-color: #2b8fed;
+    padding: 10px 20px;
+    border-radius: 5px;
+    -webkit-border-radius: 5px;
+    -moz-border-radius: 5px;
+    -ms-border-radius: 5px;
+    -o-border-radius: 5px;
+}
+
+#section-courses1 .sec2 .sec2b .sec2-3 .sec2-3-2 {
+    display: flex;
+    flex-direction: column;
+    justify-content: space-around;
+    align-content: space-around;
+    gap: 1.65%;
+    height: 40%;
+    position: relative;
+    padding: 4% 5% 5%;
+    background-color: white;
+    border-radius: 0 0 5px 5px;
+    -webkit-border-radius: 0 0 5px 5px;
+    -moz-border-radius: 0 0 5px 5px;
+    -ms-border-radius: 0 0 5px 5px;
+    -o-border-radius: 0 0 5px 5px;
+}
+
+#section-courses1 .sec2 .sec2b .sec2-4 .sec2-4-2 {
+    padding: 4% 5% 5%;
+    gap: 1.65%;
+}
+
+#section-courses1 .sec2 .sec2b .sec2-5 .sec2-5-2 {
+    padding: 4% 5% 5%;gap: 1.65%;
+
+}
+
+
+#section-courses2{
+    height: 600px;
+}
+
+#section-courses2 .sec-courseB {
+    display: grid;
+    grid-template-columns: 1fr 1fr;
+    place-items: center;
+    place-content: center;
+    column-gap: 1.3em;
+    row-gap: 1.45em;
+    padding: 1% 1%;
+    width: 70%;
+}
+
+
+}
+
+@media screen and (max-width: 406px) {
+    #section-courses1 .sec1{
+        height: 30vh;
+    }
+
+    #section-courses1 .sec1 .sec1c p{
+        width: 71%;
+        line-height: 135%;
+        font-size: 4.5vw;
+        text-justify: distribute;
+        font-weight: 500;
+        color: rgb(255, 255, 255);
+        text-align: center;
+    }
+
+    #section-courses2 .sec-courseB {
+        display: grid;
+        grid-template-columns: 1fr 1fr;
+        place-items: center;
+        place-content: center;
+        column-gap: 0.5em;
+        row-gap: 0.45em;
+        padding: 1% 1%;
+        width: 70%;
+    }
+
+
+    #section-courses2 .sec-courseB .coures1 {
+        height: 130px;
+        width: 135px;
+        background: #373434;
+        background-blend-mode: multiply;
+        box-shadow: 0px 3px 4px 0px rgba(0, 0, 0, 0.30);
+        display: grid;
+        place-items: center;
+        grid-template-rows: 1fr 1fr;
+        padding: 9% 5%;
+        font-size: 18px;
+        color: white;
+}
+
+#section-courses2 .sec-courseB .coures2 {
+    height: 130px;
+    width: 135px;
+    background: #373434;
+    background-blend-mode: multiply;
+    box-shadow: 0px 3px 4px 0px rgba(0, 0, 0, 0.30);
+    display: grid;
+    place-items: center;
+    grid-template-rows: 1fr 1fr;
+    padding: 9% 5%;
+    font-size: 18px;
+    color: white;
+
+}
+
+#section-courses2 .sec-courseB .coures3 {
+    height: 130px;
+    width: 135px;
+    background: #373434;
+    background-blend-mode: multiply;
+    box-shadow: 0px 3px 4px 0px rgba(0, 0, 0, 0.30);
+    display: grid;
+    place-items: center;
+    grid-template-rows: 1fr 1fr;
+    padding: 9% 5%;
+    font-size: 18px;
+    color: white;
+}
+
+#section-courses2 .sec-courseB .coures4 {
+    height: 130px;
+    width: 135px;
+    background: #373434;
+    background-blend-mode: multiply;
+    box-shadow: 0px 3px 4px 0px rgba(0, 0, 0, 0.30);
+    display: grid;
+    place-items: center;
+    grid-template-rows: 1fr 1fr;
+    padding: 9% 5%;
+    font-size: 18px;
+    color: white;
+}
+}
+
+@media screen and (max-height: 1139px) {
+    #section-courses1 .sec2 .sec2b .sec2-3 .sec2-3-2 {
+        display: flex;
+        flex-direction: column;
+        justify-content: space-around;
+        align-content: space-around;
+        gap: 10.88%;
+        height: 40%;
+        position: relative;
+        padding: 4% 5% 5%;
+        background-color: white;
+        border-radius: 0 0 5px 5px;
+        -webkit-border-radius: 0 0 5px 5px;
+        -moz-border-radius: 0 0 5px 5px;
+        -ms-border-radius: 0 0 5px 5px;
+        -o-border-radius: 0 0 5px 5px;
+    }
+    
+    #section-courses1 .sec2 .sec2b .sec2-4 .sec2-4-2 {
+        gap: 49.88%;
+    }
+
+    
+    #section-courses1 .sec2 .sec2b .sec2-5 .sec2-5-2 {
+        gap: 49.88%;
+    }
+}
+
+@media screen and (max-height: 641px) {
+    #section-courses1 .sec2 .sec2b .sec2-3 .sec2-3-2 {
+        display: flex;
+        flex-direction: column;
+        justify-content: space-around;
+        align-content: space-around;
+        gap: 1.88%;
+        height: 40%;
+        position: relative;
+        padding: 4% 5% 5%;
+        background-color: white;
+        border-radius: 0 0 5px 5px;
+        -webkit-border-radius: 0 0 5px 5px;
+        -moz-border-radius: 0 0 5px 5px;
+        -ms-border-radius: 0 0 5px 5px;
+        -o-border-radius: 0 0 5px 5px;
+    }
+    
+    #section-courses1 .sec2 .sec2b .sec2-4 .sec2-4-2 {
+        gap: 10.88%;
+    }
+    
+    #section-courses1 .sec2 .sec2b .sec2-5 .sec2-5-2 {
+        gap: 10.88%;
+    }
+}
